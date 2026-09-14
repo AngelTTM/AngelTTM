@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/angel-ytm">
     <img src="./icons/linkedin-badge.svg" alt="LinkedIn" />
   </a>
-  <a href="mailto:angel_torres2702@outlook.com">
+  <a href="mailto:angel.torres@aytcode.com">
     <img src="./icons/email-badge.svg" alt="Email" />
   </a>
   <a href="https://music.apple.com/profile/angel_torres2702">
